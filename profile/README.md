@@ -44,7 +44,7 @@ Instead of following fixed rules, ML models identify patterns from data and impr
 Deep Learning is a subset of Machine Learning based on neural networks inspired by the human brain.
 
 It uses multiple layers of artificial neurons to process and learn complex patterns from large amounts of data.
-
+![Generative AI](images/6.png)
 Deep Learning powers many modern AI applications such as:
 
 * Voice assistants
