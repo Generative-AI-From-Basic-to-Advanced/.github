@@ -29,6 +29,7 @@ Machine Learning (ML) is a subset of AI that allows systems to learn from data w
 
 Instead of following fixed rules, ML models identify patterns from data and improve over time through experience.
 
+![Generative AI](images/5.png)
 ### Examples of Machine Learning:
 
 * Spam email detection
